@@ -66,7 +66,7 @@
 </template>
 
 <script>
-import '../../filter/time.js'
+import '../../router/time.js'
 import BScroll from 'better-scroll'
 import cartcontrol from 'components/cartcontrol/cartcontrol'
 
