@@ -12,9 +12,15 @@
 
 ## 项目截图
 
-<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"></div>
+<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/1.png" width="40%"></div>
 
-<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110759_xva1_2493500.jpeg" width="40%"></div>
+<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/2.png" width="40%"></div>
+
+<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/3.png" width="40%"></div>
+
+<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/4.png" width="40%"></div>
+
+<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/5.png" width="40%"></div>
 
 ## 安装步骤
 
