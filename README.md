@@ -12,13 +12,15 @@
 
 ## 项目截图
 
-<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/1.png" width="40%"></div>
+<div align=center>
+<img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/1.png" width="40%">
+<img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/2.png" width="40%">
+</div>
 
-<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/2.png" width="40%"></div>
-
-<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/3.png" width="40%"></div>
-
-<div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/4.png" width="40%"></div>
+<div align=center>
+<img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/3.png" width="40%">
+<img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/4.png" width="40%">
+</div>
 
 <div align=center><img src="https://github.com/hujinbin/Vue-sell/blob/master/screenshots/5.png" width="40%"></div>
 
